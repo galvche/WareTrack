@@ -1,0 +1,1648 @@
+{
+  "entries": [
+    {
+      "id": "App copy.js:objetoFrontendAbackend",
+      "name": "objetoFrontendAbackend",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "obj",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "App copy.js"
+    },
+    {
+      "id": "App copy.js:getCapasPara3D",
+      "name": "getCapasPara3D",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "ocupadasPorCapa",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "App copy.js"
+    },
+    {
+      "id": "App copy.js:App",
+      "name": "App",
+      "type": "Función",
+      "description": "",
+      "params": [],
+      "returns": "",
+      "examples": [],
+      "file": "App copy.js"
+    },
+    {
+      "id": "App copy.js:handleClickOutside",
+      "name": "handleClickOutside",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "event",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "App copy.js"
+    },
+    {
+      "id": "App copy.js:recalcularOcupadas",
+      "name": "recalcularOcupadas",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "objetosLista",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "App copy.js"
+    },
+    {
+      "id": "App copy.js:handleEditarObjeto",
+      "name": "handleEditarObjeto",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "e",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "App copy.js"
+    },
+    {
+      "id": "App copy.js:mostrarPopup",
+      "name": "mostrarPopup",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "mensaje",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "tipo",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "App copy.js"
+    },
+    {
+      "id": "App copy.js:agregarAlerta",
+      "name": "agregarAlerta",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "tipo",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "mensaje",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "objeto = null",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "App copy.js"
+    },
+    {
+      "id": "App copy.js:agregarObjeto",
+      "name": "agregarObjeto",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "nuevoObjeto",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "App copy.js"
+    },
+    {
+      "id": "App copy.js:editarObjeto",
+      "name": "editarObjeto",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "objetoEditado",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "App copy.js"
+    },
+    {
+      "id": "App copy.js:pedirConfirmEliminar",
+      "name": "pedirConfirmEliminar",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "id",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "App copy.js"
+    },
+    {
+      "id": "App copy.js:eliminarObjeto",
+      "name": "eliminarObjeto",
+      "type": "Función",
+      "description": "",
+      "params": [],
+      "returns": "",
+      "examples": [],
+      "file": "App copy.js"
+    },
+    {
+      "id": "App copy.js:toggleAlertDropdown",
+      "name": "toggleAlertDropdown",
+      "type": "Función",
+      "description": "",
+      "params": [],
+      "returns": "",
+      "examples": [],
+      "file": "App copy.js"
+    },
+    {
+      "id": "App copy.js:handleMenuOption",
+      "name": "handleMenuOption",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "option",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "App copy.js"
+    },
+    {
+      "id": "App copy.js:getTipoClase",
+      "name": "getTipoClase",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "id",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "App copy.js"
+    },
+    {
+      "id": "App copy.js:isSalida",
+      "name": "isSalida",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "r",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "c",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "App copy.js"
+    },
+    {
+      "id": "App copy.js:getSalidaBorde",
+      "name": "getSalidaBorde",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "r",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "c",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "App copy.js"
+    },
+    {
+      "id": "App copy.js:isBordeExteriorCelda",
+      "name": "isBordeExteriorCelda",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "obj",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "r",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "c",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "App copy.js"
+    },
+    {
+      "id": "App copy.js:getBordesExteriores",
+      "name": "getBordesExteriores",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "obj",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "r",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "c",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "App copy.js"
+    },
+    {
+      "id": "App copy.js:buscarHueco",
+      "name": "buscarHueco",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "nuevoObjeto",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "ocupadasCapa",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "pasillos",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "App copy.js"
+    },
+    {
+      "id": "App copy.js:handleIconClick",
+      "name": "handleIconClick",
+      "type": "Función",
+      "description": "",
+      "params": [],
+      "returns": "",
+      "examples": [],
+      "file": "App copy.js"
+    },
+    {
+      "id": "App copy.js:AppWithRouter",
+      "name": "AppWithRouter",
+      "type": "Función",
+      "description": "",
+      "params": [],
+      "returns": "",
+      "examples": [],
+      "file": "App copy.js"
+    },
+    {
+      "id": "App.js:App",
+      "name": "App",
+      "type": "Función",
+      "description": "",
+      "params": [],
+      "returns": "",
+      "examples": [],
+      "file": "App.js"
+    },
+    {
+      "id": "App.js:handleIconClick",
+      "name": "handleIconClick",
+      "type": "Función",
+      "description": "",
+      "params": [],
+      "returns": "",
+      "examples": [],
+      "file": "App.js"
+    },
+    {
+      "id": "App.js:handleMenuOption",
+      "name": "handleMenuOption",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "option",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "App.js"
+    },
+    {
+      "id": "App.js:toggleAlertDropdown",
+      "name": "toggleAlertDropdown",
+      "type": "Función",
+      "description": "",
+      "params": [],
+      "returns": "",
+      "examples": [],
+      "file": "App.js"
+    },
+    {
+      "id": "App.js:pedirConfirmEliminar",
+      "name": "pedirConfirmEliminar",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "id",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "App.js"
+    },
+    {
+      "id": "App.js:handleAsignarObjeto",
+      "name": "handleAsignarObjeto",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "objeto",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "App.js"
+    },
+    {
+      "id": "App.js:AppWithRouter",
+      "name": "AppWithRouter",
+      "type": "Función",
+      "description": "",
+      "params": [],
+      "returns": "",
+      "examples": [],
+      "file": "App.js"
+    },
+    {
+      "id": "components\\AdminPanel.js:AdminPanel",
+      "name": "AdminPanel",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "{\r\n  objetos = []",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "backendStatus = \"OK\"",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "stats = {}",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "backendLogs = []",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "frontendLogs = []",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "setFrontendLogs",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "celdasSeleccionadas = []",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "onAsignarObjeto\r\n}",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "components\\AdminPanel.js"
+    },
+    {
+      "id": "components\\AdminPanel.js:advancedFilter",
+      "name": "advancedFilter",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "log",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "components\\AdminPanel.js"
+    },
+    {
+      "id": "components\\Almacen3D.js:Almacen3D",
+      "name": "Almacen3D",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "{\r\n  capas",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "gridSize",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "pasillos",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "salidas",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "objetos",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "onClose\r\n}",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "components\\Almacen3D.js"
+    },
+    {
+      "id": "components\\Almacen3D.js:getTipoCelda",
+      "name": "getTipoCelda",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "row",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "col",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "ocupadas",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "salidas",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "objetosCapa",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "capaIdx",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "components\\Almacen3D.js"
+    },
+    {
+      "id": "components\\App.js:App",
+      "name": "App",
+      "type": "Función",
+      "description": "",
+      "params": [],
+      "returns": "",
+      "examples": [],
+      "file": "components\\App.js"
+    },
+    {
+      "id": "components\\App.js:handleIconClick",
+      "name": "handleIconClick",
+      "type": "Función",
+      "description": "",
+      "params": [],
+      "returns": "",
+      "examples": [],
+      "file": "components\\App.js"
+    },
+    {
+      "id": "components\\App.js:handleMenuOption",
+      "name": "handleMenuOption",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "option",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "components\\App.js"
+    },
+    {
+      "id": "components\\App.js:toggleAlertDropdown",
+      "name": "toggleAlertDropdown",
+      "type": "Función",
+      "description": "",
+      "params": [],
+      "returns": "",
+      "examples": [],
+      "file": "components\\App.js"
+    },
+    {
+      "id": "components\\App.js:pedirConfirmEliminar",
+      "name": "pedirConfirmEliminar",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "id",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "components\\App.js"
+    },
+    {
+      "id": "components\\App.js:AppWithRouter",
+      "name": "AppWithRouter",
+      "type": "Función",
+      "description": "",
+      "params": [],
+      "returns": "",
+      "examples": [],
+      "file": "components\\App.js"
+    },
+    {
+      "id": "components\\ChartCard.js:ChartCard",
+      "name": "ChartCard",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "{ title",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "children }",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "components\\ChartCard.js"
+    },
+    {
+      "id": "components\\ConfirmDeleteModal.js:ConfirmDeleteModal",
+      "name": "ConfirmDeleteModal",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "{\r\n  confirmEliminar",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "eliminarObjeto",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "setConfirmEliminar\r\n}",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "components\\ConfirmDeleteModal.js"
+    },
+    {
+      "id": "components\\EditModal.js:EditModal",
+      "name": "EditModal",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "{\r\n  mostrarModalEditar",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "objetoEditando",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "gridSize",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "tiposConPrioridad",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "proveedores",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "handleEditarObjeto",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "setMostrarModalEditar\r\n}",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "components\\EditModal.js"
+    },
+    {
+      "id": "components\\EndpointsTable.js:EndpointsTable",
+      "name": "EndpointsTable",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "{ endpoints }",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "components\\EndpointsTable.js"
+    },
+    {
+      "id": "components\\Grid.js:Grid",
+      "name": "Grid",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "{\r\n  gridSize",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "ocupadasFiltradas",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "pasillos",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "getSalidaBorde",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "ocupadasParaGrid",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "objetoSeleccionado",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "getBordesExteriores",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "getTipoClase",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "objetos",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "setObjetoSeleccionado",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "capaIndicador",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "vista3D",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "setVista3D",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "onSelectionChange",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "celdasSeleccionadas // NUEVO: selección controlada\r\n}",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "components\\Grid.js"
+    },
+    {
+      "id": "components\\Grid.js:handleCellMouseDown",
+      "name": "handleCellMouseDown",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "e",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "components\\Grid.js"
+    },
+    {
+      "id": "components\\Grid.js:handleCellMouseEnter",
+      "name": "handleCellMouseEnter",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "e",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "components\\Grid.js"
+    },
+    {
+      "id": "components\\Loader.js:Loader",
+      "name": "Loader",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "{ onFinish }",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "components\\Loader.js"
+    },
+    {
+      "id": "components\\LogList.js:LogList",
+      "name": "LogList",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "{ logs }",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "components\\LogList.js"
+    },
+    {
+      "id": "components\\Sidebar.js:Sidebar",
+      "name": "Sidebar",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "{\r\n  nuevoObjeto",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "setNuevoObjeto",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "tiposConPrioridad",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "proveedores",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "gridSize",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "buscarHueco",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "ocupadasPorCapa",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "pasillos",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "agregarAlerta",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "agregarObjeto",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "objetosFiltrados",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "objetoSeleccionado",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "setObjetoSeleccionado",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "setObjetoEditando",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "setMostrarModalEditar",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "pedirConfirmEliminar\r\n}",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "components\\Sidebar.js"
+    },
+    {
+      "id": "components\\Toast.js:Toast",
+      "name": "Toast",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "{ toast }",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "components\\Toast.js"
+    },
+    {
+      "id": "components\\Topbar.js:Topbar",
+      "name": "Topbar",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "{\r\n  logo",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "hora",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "handleIconClick",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "busqueda",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "setBusqueda",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "sugerencias",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "setSugerencias",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "capaBtnRef",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "menuVisible",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "setMenuVisible",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "handleMenuOption",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "showAlertDropdown",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "toggleAlertDropdown",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "alertasVistas",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "alertas",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "setAlertas\r\n}",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "components\\Topbar.js"
+    },
+    {
+      "id": "components\\Topbar.js:handleClickOutside",
+      "name": "handleClickOutside",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "event",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "components\\Topbar.js"
+    },
+    {
+      "id": "hooks\\useAlmacen.js:useAlmacen",
+      "name": "useAlmacen",
+      "type": "Función",
+      "description": "",
+      "params": [],
+      "returns": "",
+      "examples": [],
+      "file": "hooks\\useAlmacen.js"
+    },
+    {
+      "id": "hooks\\useAlmacen.js:handleClickOutside",
+      "name": "handleClickOutside",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "event",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "hooks\\useAlmacen.js"
+    },
+    {
+      "id": "hooks\\useAlmacen.js:recalcularOcupadas",
+      "name": "recalcularOcupadas",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "objetosLista",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "hooks\\useAlmacen.js"
+    },
+    {
+      "id": "hooks\\useAlmacen.js:agregarAlerta",
+      "name": "agregarAlerta",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "tipo",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "mensaje",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "objeto = null",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "hooks\\useAlmacen.js"
+    },
+    {
+      "id": "hooks\\useAlmacen.js:agregarObjeto",
+      "name": "agregarObjeto",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "nuevoObjeto",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "hooks\\useAlmacen.js"
+    },
+    {
+      "id": "hooks\\useAlmacen.js:editarObjeto",
+      "name": "editarObjeto",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "objetoEditado",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "hooks\\useAlmacen.js"
+    },
+    {
+      "id": "hooks\\useAlmacen.js:eliminarObjeto",
+      "name": "eliminarObjeto",
+      "type": "Función",
+      "description": "",
+      "params": [],
+      "returns": "",
+      "examples": [],
+      "file": "hooks\\useAlmacen.js"
+    },
+    {
+      "id": "hooks\\useFetch.js:useFetch",
+      "name": "useFetch",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "url",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "hooks\\useFetch.js"
+    },
+    {
+      "id": "pages\\AdminPanelPage.js:AdminPanelPage",
+      "name": "AdminPanelPage",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "props",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "pages\\AdminPanelPage.js"
+    },
+    {
+      "id": "pages\\HomePage.js:AdminPanelPage",
+      "name": "AdminPanelPage",
+      "type": "Función",
+      "description": "",
+      "params": [],
+      "returns": "",
+      "examples": [],
+      "file": "pages\\HomePage.js"
+    },
+    {
+      "id": "SAP\\sapApi.js:fetchObjetosSAP",
+      "name": "fetchObjetosSAP",
+      "type": "Función",
+      "description": "",
+      "params": [],
+      "returns": "",
+      "examples": [],
+      "file": "SAP\\sapApi.js"
+    },
+    {
+      "id": "SAP\\sapApi.js:fetchLogsSAP",
+      "name": "fetchLogsSAP",
+      "type": "Función",
+      "description": "",
+      "params": [],
+      "returns": "",
+      "examples": [],
+      "file": "SAP\\sapApi.js"
+    },
+    {
+      "id": "SAP\\sapApi.js:fetchDbStatsSAP",
+      "name": "fetchDbStatsSAP",
+      "type": "Función",
+      "description": "",
+      "params": [],
+      "returns": "",
+      "examples": [],
+      "file": "SAP\\sapApi.js"
+    },
+    {
+      "id": "SAP\\sapApi.js:createObjetoSAP",
+      "name": "createObjetoSAP",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "objeto",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "SAP\\sapApi.js"
+    },
+    {
+      "id": "SAP\\sapApi.js:updateObjetoSAP",
+      "name": "updateObjetoSAP",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "id",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "data",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "SAP\\sapApi.js"
+    },
+    {
+      "id": "SAP\\sapApi.js:deleteObjetoSAP",
+      "name": "deleteObjetoSAP",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "id",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "SAP\\sapApi.js"
+    },
+    {
+      "id": "SAP\\sapApi.js:searchObjetosSAP",
+      "name": "searchObjetosSAP",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "filtro",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "SAP\\sapApi.js"
+    },
+    {
+      "id": "SAP\\sapApiFactory.js:setBackend",
+      "name": "setBackend",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "backend",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "SAP\\sapApiFactory.js"
+    },
+    {
+      "id": "SAP\\sapApiFactory.js:getBackend",
+      "name": "getBackend",
+      "type": "Función",
+      "description": "",
+      "params": [],
+      "returns": "",
+      "examples": [],
+      "file": "SAP\\sapApiFactory.js"
+    },
+    {
+      "id": "SAP\\sapApiFactory.js:fetchObjetos",
+      "name": "fetchObjetos",
+      "type": "Función",
+      "description": "",
+      "params": [],
+      "returns": "",
+      "examples": [],
+      "file": "SAP\\sapApiFactory.js"
+    },
+    {
+      "id": "SAP\\sapApiFactory.js:fetchLogs",
+      "name": "fetchLogs",
+      "type": "Función",
+      "description": "",
+      "params": [],
+      "returns": "",
+      "examples": [],
+      "file": "SAP\\sapApiFactory.js"
+    },
+    {
+      "id": "services\\api.js:fetchObjetos",
+      "name": "fetchObjetos",
+      "type": "Función",
+      "description": "",
+      "params": [],
+      "returns": "",
+      "examples": [],
+      "file": "services\\api.js"
+    },
+    {
+      "id": "services\\api.js:fetchLogs",
+      "name": "fetchLogs",
+      "type": "Función",
+      "description": "",
+      "params": [],
+      "returns": "",
+      "examples": [],
+      "file": "services\\api.js"
+    },
+    {
+      "id": "services\\api.js:fetchDbStats",
+      "name": "fetchDbStats",
+      "type": "Función",
+      "description": "",
+      "params": [],
+      "returns": "",
+      "examples": [],
+      "file": "services\\api.js"
+    },
+    {
+      "id": "utils\\almacenHelpers.js:objetoFrontendAbackend",
+      "name": "objetoFrontendAbackend",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "obj",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "utils\\almacenHelpers.js"
+    },
+    {
+      "id": "utils\\almacenHelpers.js:getCapasPara3D",
+      "name": "getCapasPara3D",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "ocupadasPorCapa",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "utils\\almacenHelpers.js"
+    },
+    {
+      "id": "utils\\almacenHelpers.js:buscarHueco",
+      "name": "buscarHueco",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "nuevoObjeto",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "ocupadasCapa",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "pasillos",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "utils\\almacenHelpers.js"
+    },
+    {
+      "id": "utils\\almacenHelpers.js:getTipoClase",
+      "name": "getTipoClase",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "id",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "objetos",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "utils\\almacenHelpers.js"
+    },
+    {
+      "id": "utils\\almacenHelpers.js:getSalidaBorde",
+      "name": "getSalidaBorde",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "r",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "c",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "utils\\almacenHelpers.js"
+    },
+    {
+      "id": "utils\\almacenHelpers.js:getBordesExteriores",
+      "name": "getBordesExteriores",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "obj",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "r",
+          "type": "",
+          "desc": ""
+        },
+        {
+          "name": "c",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "utils\\almacenHelpers.js"
+    },
+    {
+      "id": "utils\\formatDate.js:formatDate",
+      "name": "formatDate",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "date",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "utils\\formatDate.js"
+    },
+    {
+      "id": "utils\\parseLogs.js:parseLogs",
+      "name": "parseLogs",
+      "type": "Función",
+      "description": "",
+      "params": [
+        {
+          "name": "logs",
+          "type": "",
+          "desc": ""
+        }
+      ],
+      "returns": "",
+      "examples": [],
+      "file": "utils\\parseLogs.js"
+    }
+  ]
+}

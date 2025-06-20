@@ -1,0 +1,13 @@
+/* EditModal styles */
+.modal-editar-objeto { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.25); display: flex; align-items: center; justify-content: center; z-index: 2000; }
+.modal-contenido { background: #fff; padding: 24px 28px; border-radius: 8px; min-width: 280px; box-shadow: 0 4px 24px rgba(0,32,91,0.15); }
+.modal-contenido label { display: block; margin-bottom: 10px; font-size: 15px; }
+.edit-modal { background: #fff; border-radius: 14px; box-shadow: 0 4px 32px #00205b22; padding: 32px 32px 24px 32px; min-width: 340px; max-width: 96vw; margin: auto; font-family: 'Segoe UI', sans-serif; }
+.edit-modal h2 { color: #00205b; font-size: 1.3rem; margin-bottom: 18px; font-weight: 700; }
+.edit-modal label { display: block; color: #0a2a5c; font-size: 15px; margin-bottom: 4px; margin-top: 14px; font-weight: 500; }
+.edit-modal input, .edit-modal select { width: 100%; box-sizing: border-box; padding: 7px 12px; border-radius: 7px; border: 1.5px solid #d0d6e2; font-size: 15px; margin-bottom: 2px; outline: none; background: #f7fafd; color: #222; transition: border 0.2s; display: block; }
+.edit-actions { margin-top: 22px; display: flex; gap: 12px; justify-content: flex-end; }
+.edit-modal button { background: #00205b; color: #fff; border: none; border-radius: 7px; padding: 8px 22px; font-size: 15px; font-weight: 500; cursor: pointer; transition: background 0.18s; }
+.edit-modal button.cancel { background: #e0e4ea; color: #00205b; }
+.edit-modal button:hover:not(.cancel) { background: #005a9e; }
+.edit-modal button.cancel:hover { background: #cfd8dc; }

@@ -1,0 +1,1035 @@
+[
+  {
+    "name": "AdminPanel",
+    "type": "función",
+    "description": "Función llamada AdminPanel que recibe los parámetros: . Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      ""
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/components/AdminPanel.js",
+    "loc": 31
+  },
+  {
+    "name": "pieData",
+    "type": "función",
+    "description": "Chart.js datasets",
+    "params": [
+      "data",
+      "label"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/components/AdminPanel.js",
+    "loc": 67
+  },
+  {
+    "name": "barData",
+    "type": "función",
+    "description": "Función llamada barData que recibe los parámetros: data, label. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "data",
+      "label"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/components/AdminPanel.js",
+    "loc": 75
+  },
+  {
+    "name": "exportCSV",
+    "type": "función",
+    "description": "--- Exportar CSV para ambos logs ---",
+    "params": [
+      "logs",
+      "filename"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/components/AdminPanel.js",
+    "loc": 93
+  },
+  {
+    "name": "parseLogs",
+    "type": "función",
+    "description": "--- Transformador y filtro avanzado ---",
+    "params": [
+      "logs"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/components/AdminPanel.js",
+    "loc": 106
+  },
+  {
+    "name": "advancedFilter",
+    "type": "función",
+    "description": "--- Filtro avanzado ---",
+    "params": [
+      "log"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/components/AdminPanel.js",
+    "loc": 125
+  },
+  {
+    "name": "Almacen3D",
+    "type": "función",
+    "description": "Almacen3D - Visualización 3D del almacén usando Three.js.\r \r \r <Almacen3D capas={capas} gridSize={gridSize} objetos={objetos} />",
+    "example": "",
+    "params": [
+      ""
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/components/Almacen3D.js",
+    "loc": 22
+  },
+  {
+    "name": "getTipoCelda",
+    "type": "función",
+    "description": "Función llamada getTipoCelda que recibe los parámetros: row, col, ocupadas, salidas, objetos, capaIdx. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "row",
+      "col",
+      "ocupadas",
+      "salidas",
+      "objetos",
+      "capaIdx"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/components/Almacen3D.js",
+    "loc": 68
+  },
+  {
+    "name": "App",
+    "type": "función",
+    "description": "App - Componente principal de la aplicación. Gestiona rutas, layout y estado global.   <App />",
+    "returns": "{JSX.Element}",
+    "params": [],
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/components/App.js",
+    "loc": 25
+  },
+  {
+    "name": "handleIconClick",
+    "type": "función",
+    "description": "Handlers específicos",
+    "params": [],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/components/App.js",
+    "loc": 66
+  },
+  {
+    "name": "handleMenuOption",
+    "type": "función",
+    "description": "Función llamada handleMenuOption que recibe los parámetros: option. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "option"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/components/App.js",
+    "loc": 77
+  },
+  {
+    "name": "toggleAlertDropdown",
+    "type": "función",
+    "description": "Función llamada toggleAlertDropdown. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/components/App.js",
+    "loc": 90
+  },
+  {
+    "name": "pedirConfirmEliminar",
+    "type": "función",
+    "description": "Función llamada pedirConfirmEliminar que recibe los parámetros: id. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "id"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/components/App.js",
+    "loc": 97
+  },
+  {
+    "name": "AppWithRouter",
+    "type": "función",
+    "description": "Función llamada AppWithRouter. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/components/App.js",
+    "loc": 249
+  },
+  {
+    "name": "ChartCard",
+    "type": "función",
+    "description": "Función llamada ChartCard que recibe los parámetros: . Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      ""
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/components/ChartCard.js",
+    "loc": 3
+  },
+  {
+    "name": "ConfirmDeleteModal",
+    "type": "función",
+    "description": "Función llamada ConfirmDeleteModal que recibe los parámetros: . Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      ""
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/components/ConfirmDeleteModal.js",
+    "loc": 4
+  },
+  {
+    "name": "EditModal",
+    "type": "función",
+    "description": "Función llamada EditModal que recibe los parámetros: . Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      ""
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/components/EditModal.js",
+    "loc": 5
+  },
+  {
+    "name": "EndpointsTable",
+    "type": "función",
+    "description": "Función llamada EndpointsTable que recibe los parámetros: . Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      ""
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/components/EndpointsTable.js",
+    "loc": 3
+  },
+  {
+    "name": "Grid",
+    "type": "función",
+    "description": "Función llamada Grid que recibe los parámetros: . Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      ""
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/components/Grid.js",
+    "loc": 30
+  },
+  {
+    "name": "handleCellMouseDown",
+    "type": "función",
+    "description": "Función llamada handleCellMouseDown que recibe los parámetros: e. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "e"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/components/Grid.js",
+    "loc": 118
+  },
+  {
+    "name": "handleCellMouseEnter",
+    "type": "función",
+    "description": "Función llamada handleCellMouseEnter que recibe los parámetros: e. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "e"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/components/Grid.js",
+    "loc": 124
+  },
+  {
+    "name": "Loader",
+    "type": "función",
+    "description": "Función llamada Loader que recibe los parámetros: . Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      ""
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/components/Loader.js",
+    "loc": 17
+  },
+  {
+    "name": "LogList",
+    "type": "función",
+    "description": "Función llamada LogList que recibe los parámetros: . Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      ""
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/components/LogList.js",
+    "loc": 3
+  },
+  {
+    "name": "Sidebar",
+    "type": "función",
+    "description": "Sidebar - Barra lateral para inserción y gestión de objetos.",
+    "params": [
+      ""
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/components/Sidebar.js",
+    "loc": 27
+  },
+  {
+    "name": "Toast",
+    "type": "función",
+    "description": "Función llamada Toast que recibe los parámetros: . Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      ""
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/components/Toast.js",
+    "loc": 5
+  },
+  {
+    "name": "Topbar",
+    "type": "función",
+    "description": "Función llamada Topbar que recibe los parámetros: . Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      ""
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/components/Topbar.js",
+    "loc": 30
+  },
+  {
+    "name": "handleClickOutside",
+    "type": "función",
+    "description": "Función llamada handleClickOutside que recibe los parámetros: event. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "event"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/components/Topbar.js",
+    "loc": 55
+  },
+  {
+    "name": "useAlmacen",
+    "type": "hook",
+    "description": "Hook personalizado de React llamado useAlmacen. Permite reutilizar lógica de estado o efectos en componentes.",
+    "params": [],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/hooks/useAlmacen.js",
+    "loc": 20
+  },
+  {
+    "name": "handleClickOutside",
+    "type": "función",
+    "description": "Función llamada handleClickOutside que recibe los parámetros: event. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "event"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/hooks/useAlmacen.js",
+    "loc": 70
+  },
+  {
+    "name": "recalcularOcupadas",
+    "type": "función",
+    "description": "Logic",
+    "params": [
+      "objetosLista"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/hooks/useAlmacen.js",
+    "loc": 130
+  },
+  {
+    "name": "agregarAlerta",
+    "type": "función",
+    "description": "Función llamada agregarAlerta que recibe los parámetros: tipo, mensaje, . Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "tipo",
+      "mensaje",
+      ""
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/hooks/useAlmacen.js",
+    "loc": 148
+  },
+  {
+    "name": "agregarObjeto",
+    "type": "función",
+    "description": "Función llamada agregarObjeto que recibe los parámetros: nuevoObjeto. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "nuevoObjeto"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/hooks/useAlmacen.js",
+    "loc": 166
+  },
+  {
+    "name": "editarObjeto",
+    "type": "función",
+    "description": "Función llamada editarObjeto que recibe los parámetros: objetoEditado. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "objetoEditado"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/hooks/useAlmacen.js",
+    "loc": 208
+  },
+  {
+    "name": "eliminarObjeto",
+    "type": "función",
+    "description": "Función llamada eliminarObjeto. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/hooks/useAlmacen.js",
+    "loc": 241
+  },
+  {
+    "name": "useFetch",
+    "type": "hook",
+    "description": "Hook personalizado de React llamado useFetch que acepta los parámetros: url. Permite reutilizar lógica de estado o efectos en componentes.",
+    "params": [
+      "url"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/hooks/useFetch.js",
+    "loc": 3,
+    "export": "named"
+  },
+  {
+    "name": "AdminPanelPage",
+    "type": "función",
+    "description": "Función llamada AdminPanelPage que recibe los parámetros: props. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "props"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/pages/AdminPanelPage.js",
+    "loc": 7
+  },
+  {
+    "name": "syncLogs",
+    "type": "función",
+    "description": "Escucha cambios en localStorage (por si hay varias pestañas)",
+    "params": [],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/pages/AdminPanelPage.js",
+    "loc": 42
+  },
+  {
+    "name": "AdminPanelPage",
+    "type": "función",
+    "description": "Función llamada AdminPanelPage. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/pages/HomePage.js",
+    "loc": 3
+  },
+  {
+    "name": "fetchObjetosSAP",
+    "type": "función",
+    "description": "Función llamada fetchObjetosSAP. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/SAP/sapApi.js",
+    "loc": 5,
+    "export": "named"
+  },
+  {
+    "name": "fetchLogsSAP",
+    "type": "función",
+    "description": "Función llamada fetchLogsSAP. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/SAP/sapApi.js",
+    "loc": 11,
+    "export": "named"
+  },
+  {
+    "name": "fetchDbStatsSAP",
+    "type": "función",
+    "description": "Función llamada fetchDbStatsSAP. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/SAP/sapApi.js",
+    "loc": 17,
+    "export": "named"
+  },
+  {
+    "name": "createObjetoSAP",
+    "type": "función",
+    "description": "Función llamada createObjetoSAP que recibe los parámetros: objeto. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "objeto"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/SAP/sapApi.js",
+    "loc": 23,
+    "export": "named"
+  },
+  {
+    "name": "updateObjetoSAP",
+    "type": "función",
+    "description": "Función llamada updateObjetoSAP que recibe los parámetros: id, data. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "id",
+      "data"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/SAP/sapApi.js",
+    "loc": 29,
+    "export": "named"
+  },
+  {
+    "name": "deleteObjetoSAP",
+    "type": "función",
+    "description": "Función llamada deleteObjetoSAP que recibe los parámetros: id. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "id"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/SAP/sapApi.js",
+    "loc": 35,
+    "export": "named"
+  },
+  {
+    "name": "searchObjetosSAP",
+    "type": "función",
+    "description": "Función llamada searchObjetosSAP que recibe los parámetros: filtro. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "filtro"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/SAP/sapApi.js",
+    "loc": 41,
+    "export": "named"
+  },
+  {
+    "name": "setBackend",
+    "type": "función",
+    "description": "Función llamada setBackend que recibe los parámetros: backend. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "backend"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/SAP/sapApiFactory.js",
+    "loc": 10,
+    "export": "named"
+  },
+  {
+    "name": "getBackend",
+    "type": "función",
+    "description": "Función llamada getBackend. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/SAP/sapApiFactory.js",
+    "loc": 14,
+    "export": "named"
+  },
+  {
+    "name": "fetchObjetos",
+    "type": "función",
+    "description": "Función llamada fetchObjetos. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/SAP/sapApiFactory.js",
+    "loc": 19,
+    "export": "named"
+  },
+  {
+    "name": "fetchLogs",
+    "type": "función",
+    "description": "Función llamada fetchLogs. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/SAP/sapApiFactory.js",
+    "loc": 23,
+    "export": "named"
+  },
+  {
+    "name": "fetchObjetos",
+    "type": "función",
+    "description": "Función llamada fetchObjetos. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/services/api.js",
+    "loc": 3,
+    "export": "named"
+  },
+  {
+    "name": "fetchLogs",
+    "type": "función",
+    "description": "Función llamada fetchLogs. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/services/api.js",
+    "loc": 8,
+    "export": "named"
+  },
+  {
+    "name": "fetchDbStats",
+    "type": "función",
+    "description": "Función llamada fetchDbStats. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/services/api.js",
+    "loc": 13,
+    "export": "named"
+  },
+  {
+    "name": "tiposConPrioridad",
+    "type": "constante",
+    "description": "Constante exportada llamada tiposConPrioridad.",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/utils/almacenHelpers.js",
+    "loc": 4,
+    "export": "named"
+  },
+  {
+    "name": "proveedores",
+    "type": "constante",
+    "description": "Constante exportada llamada proveedores.",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/utils/almacenHelpers.js",
+    "loc": 11,
+    "export": "named"
+  },
+  {
+    "name": "gridSize",
+    "type": "constante",
+    "description": "Constante exportada llamada gridSize.",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/utils/almacenHelpers.js",
+    "loc": 13,
+    "export": "named"
+  },
+  {
+    "name": "pasillos",
+    "type": "constante",
+    "description": "Constante exportada llamada pasillos.",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/utils/almacenHelpers.js",
+    "loc": 15,
+    "export": "named"
+  },
+  {
+    "name": "objetoFrontendAbackend",
+    "type": "función",
+    "description": "Función llamada objetoFrontendAbackend que recibe los parámetros: obj. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "obj"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/utils/almacenHelpers.js",
+    "loc": 24,
+    "export": "named"
+  },
+  {
+    "name": "getCapasPara3D",
+    "type": "función",
+    "description": "Función llamada getCapasPara3D que recibe los parámetros: ocupadasPorCapa. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "ocupadasPorCapa"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/utils/almacenHelpers.js",
+    "loc": 40,
+    "export": "named"
+  },
+  {
+    "name": "buscarHueco",
+    "type": "función",
+    "description": "Función llamada buscarHueco que recibe los parámetros: nuevoObjeto, ocupadasCapa, pasillos. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "nuevoObjeto",
+      "ocupadasCapa",
+      "pasillos"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/utils/almacenHelpers.js",
+    "loc": 48,
+    "export": "named"
+  },
+  {
+    "name": "getTipoClase",
+    "type": "función",
+    "description": "Función llamada getTipoClase que recibe los parámetros: id, objetos. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "id",
+      "objetos"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/utils/almacenHelpers.js",
+    "loc": 73,
+    "export": "named"
+  },
+  {
+    "name": "getSalidaBorde",
+    "type": "función",
+    "description": "Función llamada getSalidaBorde que recibe los parámetros: r, c. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "r",
+      "c"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/utils/almacenHelpers.js",
+    "loc": 85,
+    "export": "named"
+  },
+  {
+    "name": "getBordesExteriores",
+    "type": "función",
+    "description": "Función llamada getBordesExteriores que recibe los parámetros: obj, r, c. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "obj",
+      "r",
+      "c"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/utils/almacenHelpers.js",
+    "loc": 95,
+    "export": "named"
+  },
+  {
+    "name": "formatDate",
+    "type": "función",
+    "description": "Función llamada formatDate que recibe los parámetros: date. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "date"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/utils/formatDate.js",
+    "loc": 2,
+    "export": "named"
+  },
+  {
+    "name": "pad",
+    "type": "función",
+    "description": "Función llamada pad que recibe los parámetros: n. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "n"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/utils/formatDate.js",
+    "loc": 4
+  },
+  {
+    "name": "parseLogs",
+    "type": "función",
+    "description": "Función llamada parseLogs que recibe los parámetros: logs. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "logs"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/utils/parseLogs.js",
+    "loc": 2,
+    "export": "named"
+  },
+  {
+    "name": "reportWebVitals",
+    "type": "función",
+    "description": "Función llamada reportWebVitals que recibe los parámetros: onPerfEntry. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "onPerfEntry"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/utils/reportWebVitals.js",
+    "loc": 1
+  },
+  {
+    "name": "objetoFrontendAbackend",
+    "type": "función",
+    "description": "Función llamada objetoFrontendAbackend que recibe los parámetros: obj. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "obj"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/App copy.js",
+    "loc": 15
+  },
+  {
+    "name": "getCapasPara3D",
+    "type": "función",
+    "description": "Función llamada getCapasPara3D que recibe los parámetros: ocupadasPorCapa. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "ocupadasPorCapa"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/App copy.js",
+    "loc": 32
+  },
+  {
+    "name": "App",
+    "type": "función",
+    "description": "Función llamada App. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/App copy.js",
+    "loc": 60
+  },
+  {
+    "name": "handleClickOutside",
+    "type": "función",
+    "description": "Función llamada handleClickOutside que recibe los parámetros: event. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "event"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/App copy.js",
+    "loc": 114
+  },
+  {
+    "name": "recalcularOcupadas",
+    "type": "función",
+    "description": "Recalcula ocupadas y ocupadasPorCapa",
+    "params": [
+      "objetosLista"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/App copy.js",
+    "loc": 133
+  },
+  {
+    "name": "handleEditarObjeto",
+    "type": "función",
+    "description": "Función llamada handleEditarObjeto que recibe los parámetros: e. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "e"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/App copy.js",
+    "loc": 150
+  },
+  {
+    "name": "mostrarPopup",
+    "type": "función",
+    "description": "Función llamada mostrarPopup que recibe los parámetros: mensaje, tipo. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "mensaje",
+      "tipo"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/App copy.js",
+    "loc": 240
+  },
+  {
+    "name": "agregarAlerta",
+    "type": "función",
+    "description": "Función llamada agregarAlerta que recibe los parámetros: tipo, mensaje, . Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "tipo",
+      "mensaje",
+      ""
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/App copy.js",
+    "loc": 254
+  },
+  {
+    "name": "agregarObjeto",
+    "type": "función",
+    "description": "Función llamada agregarObjeto que recibe los parámetros: nuevoObjeto. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "nuevoObjeto"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/App copy.js",
+    "loc": 278
+  },
+  {
+    "name": "editarObjeto",
+    "type": "función",
+    "description": "Función llamada editarObjeto que recibe los parámetros: objetoEditado. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "objetoEditado"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/App copy.js",
+    "loc": 325
+  },
+  {
+    "name": "pedirConfirmEliminar",
+    "type": "función",
+    "description": "Función llamada pedirConfirmEliminar que recibe los parámetros: id. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "id"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/App copy.js",
+    "loc": 363
+  },
+  {
+    "name": "eliminarObjeto",
+    "type": "función",
+    "description": "Función llamada eliminarObjeto. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/App copy.js",
+    "loc": 367
+  },
+  {
+    "name": "toggleAlertDropdown",
+    "type": "función",
+    "description": "Función llamada toggleAlertDropdown. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/App copy.js",
+    "loc": 394
+  },
+  {
+    "name": "handleMenuOption",
+    "type": "función",
+    "description": "Función llamada handleMenuOption que recibe los parámetros: option. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "option"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/App copy.js",
+    "loc": 401
+  },
+  {
+    "name": "getTipoClase",
+    "type": "función",
+    "description": "Función llamada getTipoClase que recibe los parámetros: id. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "id"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/App copy.js",
+    "loc": 414
+  },
+  {
+    "name": "isSalida",
+    "type": "función",
+    "description": "Función llamada isSalida que recibe los parámetros: r, c. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "r",
+      "c"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/App copy.js",
+    "loc": 426
+  },
+  {
+    "name": "getSalidaBorde",
+    "type": "función",
+    "description": "Función llamada getSalidaBorde que recibe los parámetros: r, c. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "r",
+      "c"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/App copy.js",
+    "loc": 433
+  },
+  {
+    "name": "isBordeExteriorCelda",
+    "type": "función",
+    "description": "Función llamada isBordeExteriorCelda que recibe los parámetros: obj, r, c. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "obj",
+      "r",
+      "c"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/App copy.js",
+    "loc": 443
+  },
+  {
+    "name": "getBordesExteriores",
+    "type": "función",
+    "description": "Función llamada getBordesExteriores que recibe los parámetros: obj, r, c. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "obj",
+      "r",
+      "c"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/App copy.js",
+    "loc": 462
+  },
+  {
+    "name": "buscarHueco",
+    "type": "función",
+    "description": "Función llamada buscarHueco que recibe los parámetros: nuevoObjeto, ocupadasCapa, pasillos. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "nuevoObjeto",
+      "ocupadasCapa",
+      "pasillos"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/App copy.js",
+    "loc": 479
+  },
+  {
+    "name": "handleIconClick",
+    "type": "función",
+    "description": "Función llamada handleIconClick. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/App copy.js",
+    "loc": 549
+  },
+  {
+    "name": "AppWithRouter",
+    "type": "función",
+    "description": "Función llamada AppWithRouter. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/App copy.js",
+    "loc": 1031
+  },
+  {
+    "name": "App",
+    "type": "función",
+    "description": "Función llamada App. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/App.js",
+    "loc": 18
+  },
+  {
+    "name": "handleIconClick",
+    "type": "función",
+    "description": "Handlers específicos",
+    "params": [],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/App.js",
+    "loc": 59
+  },
+  {
+    "name": "handleMenuOption",
+    "type": "función",
+    "description": "Función llamada handleMenuOption que recibe los parámetros: option. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "option"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/App.js",
+    "loc": 70
+  },
+  {
+    "name": "toggleAlertDropdown",
+    "type": "función",
+    "description": "Función llamada toggleAlertDropdown. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/App.js",
+    "loc": 83
+  },
+  {
+    "name": "pedirConfirmEliminar",
+    "type": "función",
+    "description": "Función llamada pedirConfirmEliminar que recibe los parámetros: id. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [
+      "id"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/App.js",
+    "loc": 90
+  },
+  {
+    "name": "handleAsignarObjeto",
+    "type": "función",
+    "description": "Handler para asignar objeto",
+    "params": [
+      "objeto"
+    ],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/App.js",
+    "loc": 145
+  },
+  {
+    "name": "AppWithRouter",
+    "type": "función",
+    "description": "Función llamada AppWithRouter. Ejecuta una operación específica y puede retornar un valor.",
+    "params": [],
+    "returns": "",
+    "file": "C:/Users/drago/Documents/proyecto/almacen/src/App.js",
+    "loc": 335
+  }
+]

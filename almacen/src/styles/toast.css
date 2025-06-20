@@ -1,0 +1,6 @@
+/* Toast styles */
+.alerta-global { min-width: 220px; padding: 12px 24px; border-radius: 8px; font-size: 1rem; font-weight: 500; box-shadow: 0 2px 8px rgba(0,32,91,0.08); background: #fff; color: #00205b; border-left: 6px solid #1976d2; animation: fadeIn 0.3s; position: fixed; top: 70px; right: 20px; z-index: 9999; }
+.alerta-success { border-left-color: #388e3c; }
+.alerta-warning { border-left-color: #fbc02d; }
+.alerta-error   { border-left-color: #b71c1c; }
+@keyframes fadeIn { from { opacity: 0; transform: translateY(-10px);} to   { opacity: 1; transform: translateY(0);} }

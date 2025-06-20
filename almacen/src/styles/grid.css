@@ -1,0 +1,32 @@
+/* Grid styles */
+.grid-container { flex: 1; background: #eef1f4; display: flex; justify-content: center; align-items: center; padding: 20px; position: relative; }
+.grid { display: grid; grid-template-columns: repeat(28, 32px); grid-template-rows: repeat(18, 32px); gap: 2px; background: #fff; padding: 10px; border: 1px solid #ccc; border-radius: 6px; }
+.grid-item { background: #f0f0f0; border: 1px solid #ddd; border-radius: 2px; transition: background 0.2s; }
+.grid-item.occupied { background: #ffcc80; }
+.grid-item.pasillo { background: repeating-linear-gradient(135deg, #fff, #fff 6px, #e0e0e0 8px, #fff 12px); border: 1px solid #bbb; opacity: 0.7; }
+.grid-item.tipo-palets { background: #ffe082 !important; }
+.grid-item.tipo-cajas { background: #90caf9 !important; }
+.grid-item.tipo-contenedores { background: #a5d6a7 !important; }
+.grid-item.tipo-equipos { background: #f48fb1 !important; }
+.grid-item.selected { outline: 3px solid #00205b; z-index: 10; }
+.selected-obj, .obj-list-item.selected-obj { background: #e3f0ff !important; border-color: #00205b !important; }
+.selected-obj-border { border: 2.5px solid #1976d2 !important; z-index: 3; }
+.selected-obj, .selected-obj-border-top, .selected-obj-border-bottom, .selected-obj-border-left, .selected-obj-border-right { background: #00205b !important; border-color: #00205b !important; }
+.selected-obj { background: #00205b !important; border: 2px solid #00205b !important; box-shadow: 0 0 0 2px #00205b44; color: #fff; }
+.grid-item.capa-1 { background: #ffe082; }
+.grid-item.capa-2 { background: #90caf9; }
+.grid-item.capa-3 { background: #a5d6a7; }
+.salida-text { color: #00205b; font-size: 0.7rem; font-weight: bold; position: absolute; background: rgba(255,255,255,0.85); padding: 1px 4px; border-radius: 3px; pointer-events: none; z-index: 10; }
+.salida-text-top    { top: -18px; left: 50%; transform: translateX(-50%); }
+.salida-text-bottom { bottom: -18px; left: 50%; transform: translateX(-50%); }
+.salida-text-left   { left: -38px; top: 50%; transform: translateY(-50%) rotate(-90deg);}
+.salida-text-right  { right: -38px; top: 50%; transform: translateY(-50%) rotate(-90deg);}
+.grid-item.salida-top    { border-top: 4px solid #00205b !important; }
+.grid-item.salida-bottom { border-bottom: 4px solid #00205b !important; }
+.grid-item.salida-left   { border-left: 4px solid #00205b !important; }
+.grid-item.salida-right  { border-right: 4px solid #00205b !important; }
+.selected-cell {
+  background: #00205b !important;
+  border: 1.5px solid #00205b !important;
+  transition: background 0.15s, border 0.15s;
+}
